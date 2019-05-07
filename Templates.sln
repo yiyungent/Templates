@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F83DBFD3-87BF-43A0-8EF3-6D33F0182B24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Templates", "src\Templates\Templates.csproj", "{619D5267-4659-4FF5-A131-53BE0AB85001}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Templates", "src\Templates\Templates.csproj", "{A881C079-071D-4B88-8074-5AAA621BF103}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{619D5267-4659-4FF5-A131-53BE0AB85001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{619D5267-4659-4FF5-A131-53BE0AB85001}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{619D5267-4659-4FF5-A131-53BE0AB85001}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{619D5267-4659-4FF5-A131-53BE0AB85001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A881C079-071D-4B88-8074-5AAA621BF103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A881C079-071D-4B88-8074-5AAA621BF103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A881C079-071D-4B88-8074-5AAA621BF103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A881C079-071D-4B88-8074-5AAA621BF103}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{619D5267-4659-4FF5-A131-53BE0AB85001} = {F83DBFD3-87BF-43A0-8EF3-6D33F0182B24}
+		{A881C079-071D-4B88-8074-5AAA621BF103} = {F83DBFD3-87BF-43A0-8EF3-6D33F0182B24}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C5D9842F-1275-4FF8-ABC3-CA8EF0C082BB}
